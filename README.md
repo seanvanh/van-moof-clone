@@ -1,2 +1,2 @@
-# van-moof-clone
+# vanmoof-clone
 van Moof landing page practise
